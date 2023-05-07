@@ -236,14 +236,14 @@ ul{
 
 /* Section Formatting --------------------------------------------- */
 .section-margin{
-  height: 3000px;
+  height: 1500px;
   width: 100%;
 }
 
 .section{
   position: relative;
   width: 50%;
-  padding: 1000px 4%;
+  padding: 200px 4%;
   margin: 0;
   background-color: var(--color-background);
   overflow: hidden;
@@ -251,13 +251,13 @@ ul{
 
 .left{
   margin-right: auto;
-  border-top-right-radius: 700px 700px;
+  border-top-right-radius: 400px 400px;
   border-bottom-right-radius: 0px 0px;
 }
 
 .right{
   margin-left: auto;
-  border-top-left-radius: 700px 700px;
+  border-top-left-radius: 400px 400px;
   border-bottom-left-radius: 0px 0px;
 }
 
@@ -292,9 +292,9 @@ ul{
 
 .section-intro-wrapper{
   position: relative;
-  padding: 20% 5%;
+  padding: 10% 5%;
   border-bottom: 2px solid var(--color-pink);
-  padding-bottom: 400px;
+  padding-bottom: 250px;
 }
 
 .section-intro-wrapper:nth-child(3){
@@ -303,7 +303,7 @@ ul{
 
 .section-detail-wrapper{
   position: relative;
-  padding: 20% 5%;
+  padding: 5% 5%;
 }
 
 .section-heading{
